@@ -13,5 +13,3 @@ console.log($age)
 let _branch="AIE"
 console.log(_branch)
 
-// user_name : Snake Casing 
-// userName : Camel Casing
